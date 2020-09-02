@@ -67,7 +67,5 @@ DMG Canvas 可以将 Mac 应用打包成 DMG 镜像文件，并且傻瓜式操�
 刚开始只是写了很简单的一部分功能，后来慢慢完善，逐渐才有了现在的样子，在这个过程中学到了很多东西，包括 Python 中的 GUI 和多线程操作，如何生成应用程序。希望能对一部分人有所帮助。
 
 
-**最后贴上[Demo](https://github.com/xietao3/PyImageDownloader)，本人 Python 2.7 环境下运行的， Python 3以上是无法运行的。**
-
 
 
