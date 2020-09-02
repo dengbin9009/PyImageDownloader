@@ -4,7 +4,7 @@
 
 
 
-##  Python 打包工具
+## Python 打包工具
 
 ![最终效果](http://upload-images.jianshu.io/upload_images/1319710-aa888cebfdb37e99.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/440)
 
