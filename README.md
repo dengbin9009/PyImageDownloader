@@ -1,6 +1,7 @@
 
 # 改为从Excel中获取url，批量下载图片
 
+![最终效果](https://github.com/dengbin9009/PyImageDownloader/blob/master/QQ20200902-153818.gif?raw=true)
 
 
 
