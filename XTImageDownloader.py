@@ -83,7 +83,7 @@ class Picture(object):
     # 组装图片名字
     def build_pic_name(self):
         # 剪去图片链接后的参数
-        pic_url = self.url.split("?")[0]
+        pic_url = self.url
 
         # 获取图片格式后缀 如果没有 默认jpg
         urls = pic_url.split(".")
